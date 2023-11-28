@@ -1,0 +1,18 @@
+.box{
+    height: 400px;
+    border : 2px solid #eee;
+    margin-bottom: 40px;
+}
+
+.red > .box{
+    background-color: red;
+}
+.orange > .box{
+    background-color: orange;
+}
+.blueviolet > .box{
+    background-color: BlueViolet;
+}
+.yellowGreen > .box{
+    background-color: yellowGreen;
+}
